@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - 🔭 I’m currently working on a personal project management tool.
 - 🌱 I’m currently learning machine learning techniques.
 - 💬 Ask me about my favorite programming language or my latest tech read!
-- 📫 How to reach me: jane.doe@example.com
-- 😄 Pronouns: She/Her
+- 📫 How to reach me: akubestebasteayer@gmail.com
+- 😄 Pronouns: He
 - ⚡ Fun fact: I once climbed Mount Everest!
 
 ## Skills
