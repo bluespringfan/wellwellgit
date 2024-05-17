@@ -17,5 +17,3 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - Databases: PostgreSQL, MongoDB, SQLite
 - Other: Agile Development, Git, RESTful APIs
 
-## Connect with Me
-- [Twitter](https://twitter.com/wellwellweb3)
